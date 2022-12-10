@@ -1,6 +1,6 @@
 *{@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@500;700;900&display=swap");font-family: 'Outift';}
+html {overflow-y: hidden;overflow-x: hidden;}
 body{margin:0;background-color:hsl(212, 45%, 89%);margin-top: 200px;}
-
 .timmy{
     display:flex;
     margin:auto;
