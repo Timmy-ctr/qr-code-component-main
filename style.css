@@ -1,5 +1,5 @@
-*{@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@500;700;900&display=swap");@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@500;700;900&display=swap");}
-body{margin:0;background-color:hsl(212, 45%, 89%);margin-top: 200px;}
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@500;700;900&display=swap");
+body{margin:0;background-color:hsl(212, 45%, 89%);margin-top: auto;}
 
 .timmy{
     display:flex;
